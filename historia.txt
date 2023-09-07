@@ -7,3 +7,5 @@ Le apasiona salir a caminar con su perro
 Actualmente trabajo en masmobile y trabaja remotamente
 
 Soy ricardo, nuevo integrante del equipo, soy desarrollador Frontend
+
+Ricardo es un desarrollador que contribuye en este proyecto open source
