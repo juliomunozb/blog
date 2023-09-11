@@ -1,14 +1,14 @@
-# Blog
+# Blog :tw-1f680:
 
 Blog para el curso de git
 
-# :fa-suitcase: Contenido del reposotirio:
+# Contenido del reposotirio:
 
 1.  Instalación de Git
 2.  Comandos
-3.  Flujo de trabajo en Git tradicional y profesional
+3.  Flujo de trabajo tradicional y profesional en Git
 4.  Ramas
-5.  Configuración y conecion de seguridad por ssh
+5.  Configuración y conexón de seguridad por ssh
 6.  Configuración de colaboradores
 7.  Buenas prácticas
 
