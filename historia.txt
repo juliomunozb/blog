@@ -10,6 +10,8 @@ Soy ricardo, nuevo integrante del equipo, soy desarrollador Frontend
 
 Experimiento 1
 
+Experimiento 2
+
 Master 1
 
 Master 2
