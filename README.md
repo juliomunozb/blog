@@ -12,6 +12,7 @@ Blog para el curso de git
 6.  Configuración de colaboradores
 7.  Buenas prácticas
 8.  Creado por el equipo Senor
+9.  Incluye ejemplos de Linux, Windows y Mac
 
 ---
 
