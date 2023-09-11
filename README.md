@@ -13,6 +13,7 @@ Blog para el curso de git
 7.  Buenas prácticas
 8.  Creado por el equipo Senor
 9.  Incluye ejemplos de Linux, Windows y Mac
+10. Disponible para todas las edades
 
 ---
 
