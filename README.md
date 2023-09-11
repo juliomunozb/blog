@@ -11,6 +11,7 @@ Blog para el curso de git
 5.  Configuración y conexón de seguridad por ssh
 6.  Configuración de colaboradores
 7.  Buenas prácticas
+8.  Creado por el equipo Senor
 
 ---
 
